@@ -40,6 +40,8 @@ apis:
       - type: x-ckan-version
         value: '2.6.9'
 common:
+  - type: DomainSecurity
+    url: security/dati-unibo-it-domain-security.yml
   - type: Website
     url: https://dati.unibo.it
   - type: Documentation

@@ -4,6 +4,17 @@ description: >-
   University of Bologna Open Data is a university open-data portal for Italy running CKAN.
   It exposes the CKAN catalog API over approximately 34 datasets.
 kind: institution
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown

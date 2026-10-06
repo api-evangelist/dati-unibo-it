@@ -40,7 +40,7 @@ tags:
   - University
   - Italy
 created: '2026-06-07'
-modified: '2026-06-07'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: dati-unibo-it:catalog
@@ -65,6 +65,8 @@ apis:
       - type: x-ckan-version
         value: '2.6.9'
 common:
+  - url: https://dati.unibo.it/blog/
+    type: Blog
   - type: DomainSecurity
     url: security/dati-unibo-it-domain-security.yml
   - type: Website
